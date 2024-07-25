@@ -15,7 +15,8 @@
  LinearSVC
 
 ** For Data Vsualization Wordcloud, Lable Analysis, Confusion Matrix are implemented
-**Prediction of text s also implemented according to the models 
+
+**Prediction of texts also implemented according to the models 
 
 The dashboard is developed using Streamlit, a popular Python library for building data-driven web applications. Users can upload their text data, such as customer reviews, and view real-time sentiment analysis results. These results are visually presented using graphs and charts, making it easy to understand sentiment trends over time.
 
